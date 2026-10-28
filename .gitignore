@@ -1,0 +1,10 @@
+# what to ship, what to keep local
+shots/_probe/
+shots/*.dom.html
+shots/*.png
+shots/*.jpg
+__pycache__/
+*.pyc
+.DS_Store
+.env
+node_modules/

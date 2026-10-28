@@ -1,0 +1,280 @@
+{
+ "001-terminal-noir": {
+  "overflowX": 0,
+  "scrollH": 5427,
+  "hasHScroll": false,
+  "sections": [
+   {
+    "id": "top",
+    "h": 608,
+    "w": 1012
+   },
+   {
+    "id": "shift",
+    "h": 536,
+    "w": 1012
+   },
+   {
+    "id": "three",
+    "h": 537,
+    "w": 1012
+   },
+   {
+    "id": "paths",
+    "h": 901,
+    "w": 1012
+   },
+   {
+    "id": "pipeline",
+    "h": 430,
+    "w": 1012
+   },
+   {
+    "id": "combo",
+    "h": 668,
+    "w": 1012
+   },
+   {
+    "id": "proof",
+    "h": 409,
+    "w": 1012
+   },
+   {
+    "id": "sprint",
+    "h": 680,
+    "w": 1012
+   },
+   {
+    "id": "warn",
+    "h": 447,
+    "w": 1012
+   }
+  ],
+  "wide": [
+   "SPAN. w=174",
+   "B. w=8",
+   "SPAN. w=60",
+   "B. w=8",
+   "SPAN. w=75",
+   "B. w=8",
+   "SPAN. w=151",
+   "B. w=8"
+  ],
+  "clipped": [],
+  "fonts": {
+   "h1": "105.376px/800 \"Segoe UI\"",
+   "h2": "42px/700 \"Segoe UI\"",
+   "kick": "10.5px/400 ui-monospace",
+   "body": "16px/400 \"Segoe UI\""
+  },
+  "colors": {
+   "bg": "rgb(8, 9, 10)",
+   "fg": "rgb(237, 238, 233)"
+  },
+  "counts": {
+   "cards": 3,
+   "tabs": 3,
+   "tabsOn": 1,
+   "sprint": 7,
+   "playbook": 5,
+   "money": 5,
+   "chips": 5,
+   "nums": 4,
+   "steps": 5,
+   "pipe": 3
+  },
+  "tabSwitch": {
+   "title": "THE CLIPPER",
+   "playbook": 5,
+   "hasEmpty": false
+  },
+  "sprintToggle": {
+   "done": true,
+   "counter": "1 / 7 COMPLETE"
+  },
+  "cardWired": true,
+  "emptyish": [],
+  "leaks": []
+ },
+ "002-neon-brutalist": {
+  "overflowX": 0,
+  "scrollH": 7168,
+  "hasHScroll": false,
+  "sections": [
+   {
+    "id": "top",
+    "h": 725,
+    "w": 1116
+   },
+   {
+    "id": "shift",
+    "h": 939,
+    "w": 1116
+   },
+   {
+    "id": "three",
+    "h": 682,
+    "w": 1116
+   },
+   {
+    "id": "paths",
+    "h": 1069,
+    "w": 1116
+   },
+   {
+    "id": "pipeline",
+    "h": 529,
+    "w": 1116
+   },
+   {
+    "id": "combo",
+    "h": 872,
+    "w": 1116
+   },
+   {
+    "id": "proof",
+    "h": 525,
+    "w": 1116
+   },
+   {
+    "id": "sprint",
+    "h": 843,
+    "w": 1116
+   },
+   {
+    "id": "warn",
+    "h": 578,
+    "w": 1116
+   }
+  ],
+  "wide": [
+   "SPAN. w=10",
+   "SPAN. w=10",
+   "SPAN. w=10",
+   "SPAN. w=10"
+  ],
+  "clipped": [],
+  "fonts": {
+   "h1": "176.576px/900 \"Segoe UI\"",
+   "h2": "62px/900 \"Segoe UI\"",
+   "kick": "11px/400 ui-monospace",
+   "body": "16px/400 \"Segoe UI\""
+  },
+  "colors": {
+   "bg": "rgb(10, 10, 10)",
+   "fg": "rgb(255, 255, 255)"
+  },
+  "counts": {
+   "cards": 3,
+   "tabs": 3,
+   "tabsOn": 1,
+   "sprint": 7,
+   "playbook": 5,
+   "money": 5,
+   "chips": 5,
+   "nums": 4,
+   "steps": 5,
+   "pipe": 3
+  },
+  "tabSwitch": {
+   "title": "THE CLIPPER",
+   "playbook": 5,
+   "hasEmpty": false
+  },
+  "sprintToggle": {
+   "done": true,
+   "counter": "1 / 7 COMPLETE"
+  },
+  "cardWired": true,
+  "emptyish": [],
+  "leaks": []
+ },
+ "003-quiet-editorial": {
+  "overflowX": 0,
+  "scrollH": 6247,
+  "hasHScroll": false,
+  "sections": [
+   {
+    "id": "top",
+    "h": 583,
+    "w": 700
+   },
+   {
+    "id": "shift",
+    "h": 788,
+    "w": 700
+   },
+   {
+    "id": "three",
+    "h": 537,
+    "w": 700
+   },
+   {
+    "id": "paths",
+    "h": 1433,
+    "w": 700
+   },
+   {
+    "id": "pipeline",
+    "h": 513,
+    "w": 700
+   },
+   {
+    "id": "combo",
+    "h": 637,
+    "w": 700
+   },
+   {
+    "id": "proof",
+    "h": 377,
+    "w": 700
+   },
+   {
+    "id": "sprint",
+    "h": 638,
+    "w": 700
+   },
+   {
+    "id": "warn",
+    "h": 517,
+    "w": 700
+   }
+  ],
+  "wide": [],
+  "clipped": [],
+  "fonts": {
+   "h1": "68px/600 \"Iowan Old Style\"",
+   "h2": "32px/600 \"Iowan Old Style\"",
+   "kick": "10.5px/400 \"Segoe UI\"",
+   "body": "16px/400 \"Iowan Old Style\""
+  },
+  "colors": {
+   "bg": "rgb(251, 250, 247)",
+   "fg": "rgb(20, 19, 15)"
+  },
+  "counts": {
+   "cards": 3,
+   "tabs": 3,
+   "tabsOn": 1,
+   "sprint": 7,
+   "playbook": 5,
+   "money": 5,
+   "chips": 5,
+   "nums": 4,
+   "steps": 5,
+   "pipe": 3
+  },
+  "tabSwitch": {
+   "title": "THE CLIPPER",
+   "playbook": 5,
+   "hasEmpty": false
+  },
+  "sprintToggle": {
+   "done": true,
+   "counter": "1 of 7 complete"
+  },
+  "cardWired": true,
+  "emptyish": [],
+  "leaks": []
+ }
+}
